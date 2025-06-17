@@ -4,9 +4,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: Lorenzo Giacomelli
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: Ingernieria informatica
 
 ## ⏰ Información Importante sobre la Entrega
 
